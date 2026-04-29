@@ -1,18 +1,6 @@
-# DVA-Focused Portfolio
+## Portfolio Links
 
-Use this folder as a reminder for each student to convert the capstone into a portfolio-ready case study.
-
-## Portfolio Case Study Should Cover
-
-- Problem statement and stakeholder context
-- Dataset source and scope
-- Cleaning and transformation summary
-- KPI framework
-- 3-5 key insights
-- Tableau dashboard screenshots and link
-- Recommendations and expected impact
-
-## Suggested Deliverable
-
-Add a short write-up in your personal portfolio site, Notion page, or PDF case study with a link back to this repository.
-Aadit Vachher portfolio--> https://aadit-vachher.github.io/portfolio/
+- **Anand's Portfolio** - [https://anand-242003.github.io/dva-portfolio/](https://anand-242003.github.io/dva-portfolio/)
+- **Antik's Portfolio** - [https://antik1108.github.io/DVA_fake/](https://antik1108.github.io/DVA_fake/)
+- **Aadit's Portfolio** - [https://aadit-vachher.github.io/portfolio/](https://aadit-vachher.github.io/portfolio/)
+- **Sanchit's Portfolio** - [https://github.com/sanchitgarg23/DVA-Portfolio](https://github.com/sanchitgarg23/DVA-Portfolio)
