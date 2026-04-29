@@ -5,3 +5,4 @@
 - **Aadit's Portfolio** - [https://aadit-vachher.github.io/portfolio/](https://aadit-vachher.github.io/portfolio/)
 - **Sanchit's Portfolio** - [https://github.com/sanchitgarg23/DVA-Portfolio](https://dva-portfolio-sanchit.netlify.app/)
 - **Viraj's Portfolio** - [https://github.com/viruchafale/DVA_Portfolio](https://viruchafale.github.io/DVA_Portfolio/)
+- **Vridhi's Portfolio** - [https://vridhichaudhary.github.io/DVA_Portfolio](https://vridhichaudhary.github.io/)
