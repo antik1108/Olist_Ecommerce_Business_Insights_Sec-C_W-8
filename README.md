@@ -248,6 +248,28 @@ The project follows a structured workflow:
 
 ---
 
+## Contribution Matrix
+
+This table is aligned with available repository evidence (README role mapping, commit history, changed files, and deliverables under data/, notebooks/, scripts/, tableau/, and reports/).
+
+| Team Member | Dataset and Sourcing | ETL and Cleaning | EDA and Analysis | Statistical Analysis | Tableau Dashboard | Report Writing | PPT and Viva |
+|---|---|---|---|---|---|---|---|
+| Antik Mondal | Owner | Support | Support | Support | Support | Support | Support |
+| Anand Mishra | Support | Owner | Owner | Support | Support | Support | Support |
+| Aadit Vachher | Support | Support | Support | Support | Owner | Support | Support |
+| Viraj Chafale | Support | Support | Support | Owner | Support | Support | Owner |
+| Vridhi Chaudhary | Support | Support | Support | Support | Support | Owner | Support |
+| Sanchit Garg | Support | Support | Support | Support | Support | Support | Support |
+
+_Declaration: We confirm that the above contribution details are accurate and verifiable through GitHub Insights, PR history, and submitted artifacts._
+
+**Team Lead Name:** Antik Mondal
+
+**Date:** 29 April 2026
+
+---
 ## Summary
 
 This project combines Python analytics, statistical testing, RFM segmentation, and Tableau storytelling to evaluate how delivery performance shapes customer satisfaction in the Olist marketplace. The final output is designed to help stakeholders improve logistics reliability, protect revenue-heavy regions and categories, and prioritize the most valuable customer segments.
+
+
